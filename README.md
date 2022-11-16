@@ -1,12 +1,12 @@
 👋 Hi, I’m @andreaproto. Here I learn and teach technology.
 
-On this earth we share knowledge.
+On this earth we share knowledge:cupid:.
 
-I have a lot of fun with in IHC. In the construction of Figma projects.
+I have a lot of fun with in IHC. In the construction of Figma projects:exclamation:.
 
-I also navigate in the area of ​​programming, analysis and the software development process.
+:raising_hand: I also navigate in the area of ​​programming, analysis and the software development process.  
 
-Passionate about relational databases.
+:heartpulse: Passionate about relational databases.
 
 <!---
 andreaproto/andreaproto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
