@@ -1,9 +1,9 @@
-👋 Hi, I’m @andreaproto. Here I learn and teach technology.
+👋 Hi, I’m @andreaproto. Here I learn and teach technology. Git is sometimes used as a repository for some disciplines that require knowledge of the tool
 
 #  On this earth we share knowledge:cupid:.
 # 💫 About Me:
 
-:raising_hand:passionate about computing. I also navigate in the area of ​​programming, analysis and the software development process.  
+:raising_hand:passionate about computing. I also navigate in the area of ​​programming, analysis and the software development process. Programming for MPI and PVM
 
 :heartpulse: Passionate about relational databases and noSQL.
 
