@@ -1,4 +1,5 @@
-👋 Hi, I’m @andreaproto. Here I learn and teach technology. Git is sometimes used as a repository for some disciplines that require knowledge of the tool
+👋 Hi, I’m @andreaproto. Here I learn and teach technology. 
+Git is sometimes used as a repository for some disciplines that require knowledge of the tool
 
 #  On this earth we share knowledge:cupid:.
 # 💫 About Me:
