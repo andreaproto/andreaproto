@@ -2,9 +2,9 @@
 
 #  On this earth we share knowledge:cupid:.
 # 💫 About Me:
-I have a lot of fun with in IHC. In the construction of Figma projects* IHC AND FIGMA TO CODE:exclamation:.
-passionate about computing
-:raising_hand: I also navigate in the area of ​​programming, analysis and the software development process.  
+I have a lot of fun with in IHC. In the construction of Figma projects:exclamation:.
+
+:raising_hand:passionate about computing. I also navigate in the area of ​​programming, analysis and the software development process.  
 
 :heartpulse: Passionate about relational databases and noSQL.
 
